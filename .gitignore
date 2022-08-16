@@ -1,6 +1,5 @@
 .DS_Store
 .idea/
 __pycache__/
-database.csv
 database.txt
 my-portfolio/
